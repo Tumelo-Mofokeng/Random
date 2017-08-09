@@ -1,1 +1,3 @@
 I want to practice merging.
+THIS WILL ACT AS A FEATURE,
+Both the develop and text branches do not contain this info...
