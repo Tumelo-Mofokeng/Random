@@ -1,1 +1,4 @@
 I want to practice merging.
+
+This will serve as my develop branch.
+I will use it to merge with feature.
